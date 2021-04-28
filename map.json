@@ -26,11 +26,6 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/skribbl.io\/?xcNHhU76KcbG"
-                }, 
-                {
-                 "name":"openWebsiteTrigger",
-                 "type":"string",
-                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -114,7 +109,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/Lyon\/lyon.json"
+                 "value":"..\/SlovVrsno\/map.json"
                 }],
          "type":"tilelayer",
          "visible":true,
