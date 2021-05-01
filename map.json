@@ -155,11 +155,6 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jitsiRoom",
-                 "type":"string",
-                 "value":"Partyzone123abcxyzxy"
-                }, 
-                {
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.youtube-nocookie.com\/embed\/c40SjIZEfcg"
@@ -1688,7 +1683,13 @@
                          "duration":100,
                          "tileid":31
                         }],
-                 "id":30
+                 "id":30,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
                 }, 
                 {
                  "animation":[
