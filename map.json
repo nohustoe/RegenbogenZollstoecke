@@ -30,7 +30,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"http:\/\/ice4.somafm.com\/u80s-256-mp3"
+                 "value":"https:\/\/ice4.somafm.com\/u80s-256-mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
